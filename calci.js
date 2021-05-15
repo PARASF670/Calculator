@@ -15,7 +15,7 @@ card_header.style.backgroundColor = 'rgb(221,220,220)';
 var output_label = document.createElement('label');
 output_label.id = "output";
 output_label.style.minWidth = "20px";
-output_label.style.maxWidth = "50px";
+output_label.style.maxWidth = "200px";
 output_label.innerText = "";
 var input = document.createElement('input');
 input.setAttribute("type", "text");
